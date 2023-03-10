@@ -1,2 +1,1 @@
-# lmpthw
-Learn More Python 3 The Hard Way
+# Learn More Python 3 The Hard Way
